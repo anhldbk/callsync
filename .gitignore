@@ -1,0 +1,9 @@
+node_modules
+lib/node_modules
+.git
+npm-debug.log*
+*.db
+log.txt
+.idea
+git-commit.sh
+bin
